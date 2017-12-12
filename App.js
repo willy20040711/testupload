@@ -198,7 +198,7 @@ export default class CameraScreen extends React.Component {
         </View>
         <View
           style={{
-            flex: 0.1,
+            flex: 0.2,
             backgroundColor: 'transparent',
             flexDirection: 'row',
             alignSelf: 'flex-end'
